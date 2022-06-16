@@ -60,7 +60,7 @@ main {
     grid-area: e;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 414px) {
     header button {
         width: 100px;
         padding: 15px 0;   
