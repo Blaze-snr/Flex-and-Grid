@@ -78,8 +78,8 @@ button {
   margin-top: 40px;
   cursor: pointer;
 }
-
-@media screen and (max-width: 375px) {
+/* I'm using 414 because my phone screen is 414px */
+@media screen and (max-width: 414px) {
     header button {
         width: 100px;
         padding: 15px 0;   
